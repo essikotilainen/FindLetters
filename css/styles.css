@@ -1,0 +1,57 @@
+/*  Värit:
+    sininen: 5bc0eb
+    keltainen: fde74c
+    vihreä: 9bc53d
+    punainen: e55934
+    oranssi: fa7921
+    (pinkki: #a53860)
+*/
+
+main {
+  background-color: #fde74c;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 3.5em !important;
+  background-color: #fa7921;
+}
+
+#word {
+  font-size: 7em !important;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+footer {
+    background-color:#a53860;
+    padding: 8px;
+
+}
+
+#answer {  
+    width: 60%;
+    font-size: 3.5em;
+}
+
+.answer_button {
+    background-color: #5bc0eb;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
+}
+
+#right_wrong {
+    font-size: 2em;    
+}
+
+.right {
+    background-color: #9bc53d;
+}
+
+.wrong {
+    background-color: #e55934;
+}
+
+img {
+    max-width: 100%;
+}
